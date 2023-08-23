@@ -1,0 +1,23 @@
+{
+  "name": "backend-web-development",
+  "version": "1.0.0",
+  "description": "Learning Backend Development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aaditya-S6/Backend-Web-Development.git"
+  },
+  "author": "Aaditya Saraswat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aaditya-S6/Backend-Web-Development/issues"
+  },
+  "homepage": "https://github.com/Aaditya-S6/Backend-Web-Development#readme",
+  "keywords": [],
+  "dependencies": {
+    "give-me-a-joke": "^0.5.1"
+  }
+}

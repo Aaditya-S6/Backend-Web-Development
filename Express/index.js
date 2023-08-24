@@ -10,6 +10,9 @@ app.listen(8080,()=>{
     console.log("Server Connected at port 8080")
 })
 
-app.use(()=>{
+app.use((req,res)=>{
     console.log("Shaadi me Zaroor Aana");
+    // console.log(req)
+    // console.log(res)
+    res.send("Hey Hello")
 })

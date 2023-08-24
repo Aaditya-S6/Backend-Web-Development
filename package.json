@@ -18,6 +18,9 @@
   "homepage": "https://github.com/Aaditya-S6/Backend-Web-Development#readme",
   "keywords": [],
   "dependencies": {
+    "color": "^4.2.3",
+    "colours": "^0.6.0-2",
+    "figlet": "^1.6.0",
     "give-me-a-joke": "^0.5.1"
   }
 }
